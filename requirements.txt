@@ -1,0 +1,4 @@
+scrapy>=2.11.0
+pandas>=2.2.0
+openpyxl>=3.1.0
+itemadapter>=0.8.0
